@@ -130,7 +130,3 @@
 </p>
 <br/><br/><br/><br/><br/><br/>
 ---
-💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
----
-![](https://visitcount.itsvg.in/api?id=BhargavHathwar&icon=0&color=0)
