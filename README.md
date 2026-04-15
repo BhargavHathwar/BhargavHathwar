@@ -1,136 +1,106 @@
-<h1 align="center">Hi 👋, I'm Bhargav Hathwar</h1>
-<h3 align="center">A passionate Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BhargavHathwar\&label=Profile%20views\&color=0e75b6\&style=flat" alt="BhargavHathwar" />
+# 🚀 Bhargav Hathwar
+
+<h3 align="center">
+  💻 Software Developer | 🤖 AI/ML Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;AI%2FML+Explorer;Building+Real+World+Projects;Clean+Code+%7C+Creative+UI" />
 </p>
-🌱 I'm currently working on Building frontend projects and exploring AI/ML-based applications
-🤝 I'm looking to collaborate on Innovative web apps, Python projects, and AI/ML solutions
-🙏 I'm looking for help with Advanced Machine Learning concepts and real-world deployment
-📚 I'm currently learning Frontend Development, Python, and AI/ML
-💬 Ask me about Frontend development, Python basics, and project building
-⚡ Fun fact I love turning ideas into real, impactful digital solutions 🚀
-📫 How to reach me: bhargavhathwar@gmail.com
-<br/><br/>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/" target="\_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/bhargav-hathwar" target="\_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://reddit.com/" target="\_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="reddit" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/" target="\_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
+
+<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+---
+
+## 🧠 About Me
+
+- 🌱 Exploring **Frontend Development & AI/ML**
+- 💻 Building **real-world projects with clean UI**
+- 🤝 Open to collaborate on **Web & AI projects**
+- 📚 Currently learning **Python & Machine Learning**
+- ⚡ I enjoy turning ideas into **real applications**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/BhargavHathwar">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/g-bhargav-hathwar/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bhargavhathwar1890@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Languages -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <!-- Web -->
-<a href="https://www.w3.org/html/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.org" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
-  </a>
-  <!-- Cloud \& DevOps -->
-<a href="https://aws.amazon.com" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <!-- Databases -->
-<a href="https://www.mysql.com/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <!-- Design -->
-<a href="https://www.figma.com/" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.canva.com" target="\_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="\_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender\_community\_badge\_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <!-- ML / Data Science -->
-<a href="https://pandas.pydata.org/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="\_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="\_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib\_icon.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="\_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit\_learn\_logo\_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c,cpp" />
+
 <br/>
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=BhargavHathwar\&theme=dark\&hide\_border=false\&include\_all\_commits=true\&count\_private=true" />
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,figma" />
+
 </p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavHathwar\&theme=dark\&hide\_border=false" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML,+CSS,+JavaScript,+React,+Node.js;Python,+Java,+C,+C%2B%2B;MongoDB,+PostgreSQL,+MySQL,+Firebase;AWS,+Vercel,+Render;NumPy,+Pandas,+Matplotlib,+Scikit-Learn" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHathwar\&theme=dark\&hide\_border=false\&include\_all\_commits=true\&count\_private=true\&layout=compact" />
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 </p>
-<br/><br/><br/><br/><br/><br/>
 ---
-💡 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BhargavHathwar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavHathwar&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHathwar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
 ---
-![](https://visitcount.itsvg.in)
+
+## ✨ What I Focus On
+
+- 🚀 Building modern web experiences  
+- 🎯 Clean UI & performance  
+- 🧠 Continuous learning & growth  
+
+
+## ⭐ Final Note
+
+> Passionate about building **clean, modern, and impactful digital experiences.**
