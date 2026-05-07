@@ -76,21 +76,6 @@
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 
 </p>
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=BhargavHathwar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhargavHathwar&theme=tokyonight&hide_border=true" height="160"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHathwar&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
 ---
 
