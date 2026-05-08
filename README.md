@@ -82,9 +82,9 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavHathwar-tech&theme=react-dark" alt="Bhargav's GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhargavHathwar&theme=react-dark" />
 </p>
----
+
 
 ## ✨ What I Focus On
 
