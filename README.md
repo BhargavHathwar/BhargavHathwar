@@ -79,12 +79,20 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandanabhat994-tech&theme=react-dark" /></p>
+
+---
+
 ## ✨ What I Focus On
 
 - 🚀 Building modern web experiences  
 - 🎯 Clean UI & performance  
 - 🧠 Continuous learning & growth  
 
+---
 
 ## ⭐ Final Note
 
