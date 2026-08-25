@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML,+CSS,+JavaScript,+React,+Node.js;Python,+Java,+C,+C%2B%2B;MongoDB,+PostgreSQL,+MySQL,+Firebase;AWS,+Vercel,+Render;NumPy,+Pandas,+Matplotlib,+Scikit-Learn" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML,+CSS,+JavaScript,+React,+Node.js;Python,+Java,+C,+MongoDB,+PostgreSQL,+MySQL,+Firebase;AWS,+Vercel,+Render;NumPy,+Pandas,+Matplotlib,+Scikit-Learn" />
 </p>
 
 <p align="center">
