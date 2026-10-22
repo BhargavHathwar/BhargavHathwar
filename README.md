@@ -123,11 +123,13 @@ A hackathon project focused on event-related functionality.
 
 ---
 
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BhargavHathwar/BhargavHathwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+  <img src="https://raw.githubusercontent.com/BhargavHathwar/BhargavHathwar/output/github-contribution-grid-snake-dark.svg" alt="Dark GitHub contribution snake"/>
 </p>
+
 
 ---
 
