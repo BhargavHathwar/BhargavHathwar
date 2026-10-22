@@ -37,37 +37,59 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
 
-**Languages**
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts" alt="Programming languages"/>
+<a href="https://github.com/BhargavHathwar">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/g-bhargav-hathwar/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:bhargavhathwar1890@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
-**Frontend & Backend**
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,flask,fastapi" alt="Frontend and backend technologies"/>
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,c" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,figma" />
+
 </p>
 
-**Databases & Cloud**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,aws,docker" alt="Databases and cloud technologies"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=HTML,+CSS,+JavaScript,+React,+Node.js;Python,+Java,+C,+MongoDB,+PostgreSQL,+MySQL,+Firebase;AWS,+Vercel,+Render;NumPy,+Pandas,+Matplotlib,+Scikit-Learn" />
 </p>
 
-**Tools & Data Science**
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vercel,vscode" alt="Development tools"/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
 </p>
 
 ---
