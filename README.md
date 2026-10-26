@@ -1,5 +1,5 @@
 
-# 🚀 Bhargav Hathwar
+# 🚀 Bhargav Hathwar G
 
 <h3 align="center">Software Developer | AI/ML Enthusiast</h3>
 
