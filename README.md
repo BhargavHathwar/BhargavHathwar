@@ -1,14 +1,10 @@
 
-# 🚀 Bhargav Hathwar G
-
-<h3 align="center">Software Developer | AI/ML Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Java+%7C+DSA+%7C+Problem+Solving;Exploring+AI+and+Machine+Learning;Building+Real-World+Projects" alt="Typing animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhargav%20Hathwar%20G&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner"/>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Coding animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Java+%7C+DSA+%7C+Problem+Solving;Exploring+AI+and+Machine+Learning;Building+Real-World+Projects" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -21,6 +17,25 @@
   <a href="mailto:bhargavhathwar1890@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+</p>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,git,github,vscode,mysql" alt="Tech stack"/>
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=BhargavHathwar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhargavHathwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=BhargavHathwar&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
 </p>
 
 ---
