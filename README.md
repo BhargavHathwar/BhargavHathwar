@@ -8,6 +8,14 @@
 
 <p align="center">
   <img
+    src="./assets/developer_coding_static.gif"
+    width="420"
+    alt="coding animation"
+  />
+</p>
+
+<p align="center">
+  <img
     src="assets/coding-animation.gif"
     width="600"
     alt="Bhargav's animated developer workspace"
