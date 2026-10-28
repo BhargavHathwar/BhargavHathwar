@@ -6,20 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;Java+%7C+DSA+%7C+Problem+Solving;Exploring+AI+and+Machine+Learning;Building+Real-World+Projects" alt="Typing animation"/>
 </p>
 
-<p align="center">
-  <img
-    src="./assets/developer_coding_static.gif"
-    width="420"
-    alt="coding animation"
-  />
-</p>
 
 <p align="center">
-  <img
-    src="assets/coding-animation.gif"
-    width="600"
-    alt="Bhargav's animated developer workspace"
-  />
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding animation"/>
 </p>
 
 <p align="center">
